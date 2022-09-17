@@ -1,0 +1,11 @@
+{
+	"name": "create-react-app--scratch",
+	"version": "1.0.0",
+	"description": "Create React App without using `npx create-react-app`",
+	"main": "index.js",
+	"scripts": {
+		"test": ""
+	},
+	"author": "Mohammed Ismail P",
+	"license": "ISC"
+}
