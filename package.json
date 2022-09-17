@@ -4,6 +4,8 @@
 	"description": "Create React App without using `npx create-react-app`",
 	"main": "index.js",
 	"scripts": {
+		"build": "webpack .",
+		"start": "webpack-dev-server .",
 		"test": ""
 	},
 	"author": "Mohammed Ismail P",
